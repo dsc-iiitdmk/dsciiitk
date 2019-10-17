@@ -1,0 +1,48 @@
+.bg {
+  /* background: linear-gradient(-45deg, #212121 , #e73c7e); */
+  background: linear-gradient(-45deg, #212121ee, #444444ee),
+    url("./../../assets/img/background3.jpg");
+  /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
+  /* animation: gradientBG 15s ease infinite; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  padding-top: 10vw;
+  padding-bottom: 10vw;
+  /* background-position: relative; */
+  /* background-size: cover; */
+}
+
+@font-face {
+  font-family: "GoogleSans-Medium";
+  src: url("./../../assets/fonts/Google-Sans-Font/GoogleSans-Medium.ttf");
+}
+
+@font-face {
+  font-family: "GoogleSans-Bold";
+  src: url("./../../assets/fonts/Google-Sans-Font/GoogleSans-Bold.ttf");
+}
+
+/* .container {
+  position: absolute;
+  top: 10vw;
+  left: 0;
+  z-index: 2;
+} */
+
+.tRow {
+  align-items: center;
+}
+
+.description {
+  font-family: "GoogleSans-Medium";
+  color: white;
+  font-size: 4vh;
+}
+
+.title {
+  font-family: "GoogleSans-Bold";
+  font-weight: bold;
+  color: white;
+  font-size: 10vh;
+}

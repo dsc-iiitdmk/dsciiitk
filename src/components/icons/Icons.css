@@ -1,0 +1,28 @@
+.dsc_logo {
+  width: 22vh;
+  height: auto;
+  display: block;
+  margin: 2vh;
+}
+
+.plus_icon {
+  width: 4vh;
+  height: auto;
+  display: block;
+  margin: 2vh;
+}
+
+.iiitk_logo {
+  width: 22vh;
+  height: auto;
+  display: block;
+  margin: 2vh;
+}
+
+.iRow {
+  align-items: center;
+}
+
+.iCol {
+  align-items: center;
+}
