@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "./bootstrap/dist/css/bootstrap.min.css";
 import BackgroundImg from "./components/background/BackgroundImg";
 import CustomNavbar from "./components/navbar/CustomNavbar";
 import AboutUs from "./components/aboutus/AboutUs";

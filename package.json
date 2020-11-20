@@ -4,10 +4,11 @@
   "private": true,
   "dependencies": {
     "bootstrap": "4.0.0",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
-    "reactstrap": "5.0.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^3.2.0",
+    "reactstrap": "^5.0.0",
+    "start": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,5 +30,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This is Official Website of Developer Students Club IIITDM Kurnool. - <a href=\"https://dsciiitk-baa51.firebaseapp.com/dsciiitk\">Website Under Construction</a>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aash1999/dsciiitk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aash1999/dsciiitk/issues"
+  },
+  "homepage": "https://github.com/aash1999/dsciiitk#readme"
 }
