@@ -16,7 +16,7 @@
 
 img {
   height: auto;
-  width: 20vw;
+  width: 22vw;
   display: block;
 }
 
@@ -35,10 +35,11 @@ img {
   position: absolute;
   right: 0;
   padding: 2vw;
+  color: black;
 }
 
 .nav_item {
-  color: white;
+  color: black;
   font-family: "GoogleSans-Medium";
   margin-right: 1vw;
   margin-left: 1vw;
@@ -51,4 +52,7 @@ img {
   /* padding: 0.5vw; */
   /* margin: 0.5vw; */
   border-radius: 0.5vw;
+}
+.collapse-bar{
+  padding-top: 10px;
 }

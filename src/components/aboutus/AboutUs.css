@@ -1,25 +1,29 @@
 .wwd {
-  background: linear-gradient(
-    45deg,
-    rgba(57, 155, 255, 1) 0%,
-    rgba(238, 113, 249, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    45deg,
-    rgba(57, 155, 255, 1) 0%,
-    rgba(238, 113, 249, 1) 100%
-  );
+  background-color:  #F2F2F2;
   padding-top: 25px;
   padding-bottom: 25px;
   padding-left: 80px;
   padding-right: 75px;
+
 }
 
 .tRow1 {
   align-items: center;
   justify-content: center;
 }
+.aboutRow {
+  width :104%;
 
+}
+.aboutRowText{
+  color:#1A1A1A;
+  font-size: 14px;
+  text-align: center;
+}
+.aboutRowTextHeading{
+  font-size: 20px;
+
+}
 h1 {
   font-family: "GoogleSans-Bold";
 }
