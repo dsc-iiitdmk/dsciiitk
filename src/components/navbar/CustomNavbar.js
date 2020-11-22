@@ -42,6 +42,9 @@ class CustomNavbar extends Component {
                   <h6 className="nav_item">Home</h6>
                 </NavItem>
                 <NavItem>
+                  <h6 className="nav_item">About Us</h6>
+                </NavItem>
+                <NavItem>
                   <h6 className="nav_item">Events</h6>
                 </NavItem>
                 <NavItem>
@@ -52,6 +55,9 @@ class CustomNavbar extends Component {
                 </NavItem>
                 <NavItem>
                   <h6 className="nav_item">Contact Us</h6>
+                </NavItem>
+                <NavItem>
+                  <h6 className="nav_item">Sign In</h6>
                 </NavItem>
               </Nav>
             </Collapse>

@@ -5,13 +5,13 @@ import "./AboutUs.css";
 class AboutUs extends Component {
   render() {
     return (
-      <Row className="iRow">
+      <Row className="iRow aboutRow">
         <Col xs="12" sm="12" md="6" className="wwd">
           <Row className="tRow1">
-            <h1>About Us</h1>
+            <h1 className ="aboutRowTextHeading">About Us</h1>
           </Row>
           <Row className="tRow1">
-            <h5>
+            <h5 className ="aboutRowText">
               Developer Student Clubs (DSC) is University based community group
               for students who are interested in Google Developer Technologies.
               As DSC Team, We teach students trending technologies such as

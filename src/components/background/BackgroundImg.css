@@ -9,6 +9,7 @@
   align-items: center;
   padding-top: 10vw;
   padding-bottom: 10vw;
+  height :500px;
   /* background-position: relative; */
   /* background-size: cover; */
 }
@@ -44,5 +45,5 @@
   font-family: "GoogleSans-Bold";
   font-weight: bold;
   color: white;
-  font-size: 10vh;
+  font-size: 9vh;
 }
