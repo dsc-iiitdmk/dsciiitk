@@ -29,7 +29,9 @@ class CustomNavbar extends Component {
       <Row className="nb" noGutters={true}>
         <Col md="12" lg="12">
           <Navbar toggleable className="fixed-top">
-            <NavbarToggler right onClick={this.toggle} />
+            <NavbarToggler right onClick={this.toggle} >
+            <i class="fa fa-bars fa-lg collapse-bar" aria-hidden="true"></i>
+            </NavbarToggler>
             <NavbarBrand>
               <img
                 src={require("./../../assets/img/dsc_iiitk_logo_white.png")}
